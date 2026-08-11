@@ -1,7 +1,7 @@
 {
   "name": "Denzinger",
   "short_name": "Denzinger",
-  "start_url": "https://cyborgalexandre.github.io/denzinger-webapp/",
+  "start_url": "./",
   "display": "standalone",
   "icons": [
     {
